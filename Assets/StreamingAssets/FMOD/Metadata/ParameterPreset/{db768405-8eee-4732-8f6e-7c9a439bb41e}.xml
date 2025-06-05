@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{db768405-8eee-4732-8f6e-7c9a439bb41e}">
+		<property name="name">
+			<value>Tremolo</value>
+		</property>
+		<relationship name="folder">
+			<destination>{1044df80-e966-4e07-88d8-8b460949aebe}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{64dcab79-fc00-4f13-bae2-438f8afcc7c5}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{64dcab79-fc00-4f13-bae2-438f8afcc7c5}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
